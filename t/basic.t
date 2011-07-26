@@ -5,10 +5,6 @@ package basic;
 use Test::More;
 use File::Spec;
 
-use lib 'lib';
-chdir '..';
-
-my $moo = 0;
 require_ok("Test::InDistDir");
 can_ok( "Test::InDistDir", "import" );
 
