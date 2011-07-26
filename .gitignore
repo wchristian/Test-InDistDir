@@ -1,0 +1,5 @@
+Test-InDistDir-*
+.cover
+.perlcritic_history
+.build
+*.kpf
