@@ -2,6 +2,7 @@ use strict;
 use warnings;
 package Test::InDistDir;
 
+# VERSION
 # ABSTRACT: test environment setup for development with IDE
 
 =head1 SYNOPSIS
